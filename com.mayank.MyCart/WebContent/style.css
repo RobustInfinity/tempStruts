@@ -1,0 +1,34 @@
+.category{
+    height: auto;
+    background-color: #ebf0f5;
+    margin-top: 15px;
+}
+
+.item{
+    height: 270px;
+
+}
+
+.img{
+    height: 55%;
+}
+
+.content{
+    height: 1000px;
+}
+.filters{
+    height: 1000px;
+    /* background-color: #cdf1ed; */
+    margin-top: 15px;
+}
+.category{
+    height: 20%;
+}
+.content .filters form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.content .filters form .col{
+    padding: 5px!important;
+}
